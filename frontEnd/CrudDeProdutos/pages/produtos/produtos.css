@@ -1,0 +1,15 @@
+.container-produtos{
+  display: flex;  
+}
+
+
+
+.button-actions{
+    padding: 10px;
+    margin: 50px;
+    background-color: yellow;
+}
+.link{
+  text-decoration: none;
+  color: #000;
+}

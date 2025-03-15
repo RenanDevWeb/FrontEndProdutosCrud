@@ -1,0 +1,10 @@
+.container-home{
+    display: flex;
+}
+
+.card-content{
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   margin: 20px;
+}
